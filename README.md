@@ -1,4 +1,4 @@
-# Subdomain Enumeration Tool 🔍
+# Subdomain Enumeration Tool 
 
 Automated subdomain enumeration tool using:
 
