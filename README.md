@@ -19,9 +19,10 @@ Automated subdomain enumeration tool using:
 
 1. Install Python 3.10+
 2. Install dependencies:
+```bash
    pip install -r requirements.txt
-
-3. Place required tools in project folder:
+```
+4. Place required tools in project folder:
    - subfinder.exe
    - assetfinder.exe
    - httpx.exe
