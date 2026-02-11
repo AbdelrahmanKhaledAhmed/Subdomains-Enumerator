@@ -26,4 +26,5 @@ Automated subdomain enumeration tool using:
    - assetfinder.exe
    - httpx.exe
    - crtsh.py
+   - config.json
 
