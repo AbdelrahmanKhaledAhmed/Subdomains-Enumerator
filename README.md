@@ -26,6 +26,6 @@ Automated subdomain enumeration tool using:
    - subfinder.exe [subfinder-windows-amd64](https://github.com/projectdiscovery/subfinder/releases)
    - assetfinder.exe [assetfinder-windows-amd64](https://github.com/tomnomnom/assetfinder/releases)
    - httpx.exe [httpx-windows-amd64](https://github.com/projectdiscovery/httpx/releases)
-   - crtsh.py
+   - crtsh.exe ( Convert it to exe )
    - config.json
 
