@@ -1,1 +1,4 @@
+
+python -m PyInstaller --onefile --console crtsh.py
+
 python -m PyInstaller --onefile --icon=icon.ico --name "Subdomains Enumerator" main.py
