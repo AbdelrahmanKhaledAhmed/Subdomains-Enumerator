@@ -23,9 +23,9 @@ Automated subdomain enumeration tool using:
    pip install -r requirements.txt
 ```
 4. Place required tools in project folder:
-   - subfinder.exe
-   - assetfinder.exe
-   - httpx.exe
+   - subfinder.exe [subfinder-windows-amd64](https://github.com/projectdiscovery/subfinder/releases)
+   - assetfinder.exe [assetfinder-windows-amd64](https://github.com/tomnomnom/assetfinder/releases)
+   - httpx.exe [httpx-windows-amd64](https://github.com/projectdiscovery/httpx/releases)
    - crtsh.py
    - config.json
 
